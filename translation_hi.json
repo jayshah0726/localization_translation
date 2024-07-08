@@ -1,0 +1,4 @@
+{
+    "phone_verification_success": "आपका फोन नंबर - {phone_number} सफलतापूर्वक सत्यापित हो गया है!",
+    "greeting_message": "नमस्ते, {name}! हमारे मंच पर आपका स्वागत है।"
+}
